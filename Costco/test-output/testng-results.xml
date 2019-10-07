@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="39945" started-at="2019-10-07T11:15:13 CDT" finished-at="2019-10-07T11:15:53 CDT">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="39945" started-at="2019-10-07T11:15:13 CDT" finished-at="2019-10-07T11:15:53 CDT">
+      <class name="HomePageTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:HomePageTest@61f8bee4]" name="setup" is-config="true" duration-ms="14953" started-at="2019-10-07T11:15:13 CDT" finished-at="2019-10-07T11:15:28 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="costcoLogoTest()[pri:0, instance:HomePageTest@61f8bee4]" name="costcoLogoTest" duration-ms="68" started-at="2019-10-07T11:15:28 CDT" finished-at="2019-10-07T11:15:28 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- costcoLogoTest -->
+        <test-method status="PASS" signature="aftertest()[pri:0, instance:HomePageTest@61f8bee4]" name="aftertest" is-config="true" duration-ms="680" started-at="2019-10-07T11:15:28 CDT" finished-at="2019-10-07T11:15:28 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftertest -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:HomePageTest@61f8bee4]" name="setup" is-config="true" duration-ms="13396" started-at="2019-10-07T11:15:28 CDT" finished-at="2019-10-07T11:15:42 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="costcoTitleTest()[pri:0, instance:HomePageTest@61f8bee4]" name="costcoTitleTest" duration-ms="10165" started-at="2019-10-07T11:15:42 CDT" finished-at="2019-10-07T11:15:52 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- costcoTitleTest -->
+        <test-method status="PASS" signature="aftertest()[pri:0, instance:HomePageTest@61f8bee4]" name="aftertest" is-config="true" duration-ms="631" started-at="2019-10-07T11:15:52 CDT" finished-at="2019-10-07T11:15:53 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftertest -->
+      </class> <!-- HomePageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
